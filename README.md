@@ -18,7 +18,7 @@ Add an alias to use the config, now use astro to open nvim with astro config
 cat >> $HOME/.bashrc << EOF
 alias astro='NVIM_APPNAME="astro" nvim'
 EOF
-souce $HOME/.bashrc
+source $HOME/.bashrc
 ```
 ```shell
 nvim
