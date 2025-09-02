@@ -21,5 +21,5 @@ EOF
 source $HOME/.bashrc
 ```
 ```shell
-nvim
+astro
 ```
