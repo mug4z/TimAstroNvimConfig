@@ -8,6 +8,7 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.editing-support.copilotchat-nvim" },
   -- { import = "astrocommunity.motion.leap" },
   -- import/override with your plugins folder
 }
